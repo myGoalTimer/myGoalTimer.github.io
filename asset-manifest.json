@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/myGoalTimer/myGoalTimer.github.io/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/myGoalTimer/myGoalTimer.github.io/static/js/main.dc90d64e.chunk.js",
-    "main.js.map": "/myGoalTimer/myGoalTimer.github.io/static/js/main.dc90d64e.chunk.js.map",
-    "runtime-main.js": "/myGoalTimer/myGoalTimer.github.io/static/js/runtime-main.074fbc59.js",
-    "runtime-main.js.map": "/myGoalTimer/myGoalTimer.github.io/static/js/runtime-main.074fbc59.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/myGoalTimer/myGoalTimer.github.io/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.d155054e.chunk.js": "/myGoalTimer/myGoalTimer.github.io/static/js/2.d155054e.chunk.js",
-    "static/js/2.d155054e.chunk.js.map": "/myGoalTimer/myGoalTimer.github.io/static/js/2.d155054e.chunk.js.map",
-    "index.html": "/myGoalTimer/myGoalTimer.github.io/index.html",
-    "precache-manifest.45b2166d53d404146fec38084c3c5c3d.js": "/myGoalTimer/myGoalTimer.github.io/precache-manifest.45b2166d53d404146fec38084c3c5c3d.js",
-    "service-worker.js": "/myGoalTimer/myGoalTimer.github.io/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/myGoalTimer/myGoalTimer.github.io/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.27fd15f6.chunk.css.map": "/myGoalTimer/myGoalTimer.github.io/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.d155054e.chunk.js.LICENSE.txt": "/myGoalTimer/myGoalTimer.github.io/static/js/2.d155054e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/myGoalTimer/myGoalTimer.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/static/js/main.c3aaf38b.chunk.js",
+    "main.js.map": "/static/js/main.c3aaf38b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e63aa632.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e63aa632.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c949b0e6.chunk.js": "/static/js/2.c949b0e6.chunk.js",
+    "static/js/2.c949b0e6.chunk.js.map": "/static/js/2.c949b0e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dc317bce093a132ae4b01b51d5363554.js": "/precache-manifest.dc317bce093a132ae4b01b51d5363554.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.c949b0e6.chunk.js.LICENSE.txt": "/static/js/2.c949b0e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.074fbc59.js",
+    "static/js/runtime-main.e63aa632.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.d155054e.chunk.js",
+    "static/js/2.c949b0e6.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.dc90d64e.chunk.js"
+    "static/js/main.c3aaf38b.chunk.js"
   ]
 }
